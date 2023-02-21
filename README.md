@@ -1,2 +1,11 @@
-# Data-Analytics-Learning-Resources
-A collection of data analytics learning resources that I've found helpful (I only post what I've read!)
+# Data Analytics Learning Resources
+
+
+
+## Data Visualization
+
+[Data Visualization - Use R, ggplot2, and the principles of graphic design to create beautiful and truthful visualizations of data](https://datavizs22.classes.andrewheiss.com/)  
+PMAP 8921 • Summer 2022, Andrew Young School of Policy Studies, Georgia State University
+
+
+
