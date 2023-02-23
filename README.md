@@ -15,6 +15,9 @@ Alternative website [here](https://koalaverse.github.io/homlr/index.html).
 - [Introductory predictive analytics and machine learning in education and healthcare](https://bookdown.org/anshul302/paml/).  
 This textbook accompanies the course [HE-930—Statistics/Predictive Analytics for Health Professions Education](https://mghihp.smartcatalogiq.com/en/2019-2020/Catalog/Course-Descriptions/HE-Health-Professions-Education/900/HE-930) — in the PhD in HPEd program at MGH Institute of Health Professions.  
 
+- [Responsible applied statistics in R for behavioral and health data](https://bookdown.org/anshul302/HE902-MGHIHP-Spring2020/)  
+This textbook accompanies the course [HE-902—Advanced Statistical Modeling for Health Professions Education](https://mghihp.smartcatalogiq.com/en/current/Catalog/Course-Descriptions/SCHOOL-OF-HEALTHCARE-LEADERSHIP/HE-Health-Professions-Education/900/HE-902) — in the PhD in HPEd program at MGH Institute of Health Professions.  
+
 - [Tidy Modeling with R](https://www.tmwr.org/) by Max Kuhn & Julia Silge  
 This book is a guide to using a collection of software in the R programming language for model building called **tidymodels**.  
 
