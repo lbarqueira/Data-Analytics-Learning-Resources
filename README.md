@@ -51,7 +51,11 @@ This book was originally (and currently) designed for use with STAT 420, Methods
 - [Graphic Design with ggplot2 - How to Create Engaging and Complex Visualizations in R](https://rstudio-conf-2022.github.io/ggplot2-graphic-design/), an rstudio::conf(2022) 2-Day Workshop by Cédric Scherer, July 25 and 26, 2022  
 
 - [Getting Started with Quarto](https://rstudio-conf-2022.github.io/get-started-quarto/), an rstudio::conf 2022 2-Day Workshop by Tom Mock, July 25 and 26, 2022  
-You can find the workshop video [here](https://www.youtube.com/watch?v=yvi5uXQMvu4).
+You can find the workshop video [here](https://www.youtube.com/watch?v=yvi5uXQMvu4).  
+
+- [Building a Blog with Quarto](https://ivelasq.quarto.pub/building-a-blog-with-quarto/) by Isabella Velásquez, August 30 2022  
+You can find the workshop video [here](https://www.youtube.com/watch?v=CVcvXfRyfE0).  
+
 
 
 ## Data Visualization
