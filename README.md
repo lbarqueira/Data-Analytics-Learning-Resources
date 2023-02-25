@@ -79,7 +79,7 @@ PMAP 8921 • Summer 2022, Andrew Young School of Policy Studies, Georgia State 
 ## Quarto
 
 - [R Markdown to Quarto](https://mine-cetinkaya-rundel.github.io/quarto-tip-a-day/posts/08-rmd-switch/)  
-
+- [Creating a blog with Quarto in 10 steps](https://beamilz.com/posts/2022-06-05-creating-a-blog-with-quarto/en/)  
 
 ## Style
 
