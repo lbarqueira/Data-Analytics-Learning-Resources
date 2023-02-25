@@ -36,7 +36,16 @@ Working with BIG DATA requires a particular suite of data analytics tools and ad
 Do you want to conduct an inferential test or do you want to provide descriptive statistics?
 
 - [Applied Statistics with R](https://book.stat420.org/) by David Dalpiaz  
-This book was originally (and currently) designed for use with STAT 420, Methods of Applied Statistics, at the University of Illinois Urbana-Champaign. 
+This book was originally (and currently) designed for use with STAT 420, Methods of Applied Statistics, at the University of Illinois Urbana-Champaign.  
+
+- [Data Science in Education Using R](https://datascienceineducation.com/) by Isabella C. Velásquez and others  
+In this book, the **six steps** involved in the process of data science from Wickham & Grolemund are used, see [Chapter 3.2 - Defining The Process of Data Science](https://datascienceineducation.com/c03.html#defining-the-process-of-data-science). These are:  
+  - Importing data;
+  - Tidying data;
+  - Transforming data;
+  - Visualizing data;
+  - Modeling data;
+  - Communicating results.
 
 
 ## Workshops
