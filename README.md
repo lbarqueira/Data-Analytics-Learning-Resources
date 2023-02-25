@@ -85,4 +85,35 @@ PMAP 8921 • Summer 2022, Andrew Young School of Policy Studies, Georgia State 
 
 - [The tidyverse style guide](https://style.tidyverse.org/index.html)  
 
+## Datasets
+
+- [Google Cloud Public Datasets](https://cloud.google.com/datasets) allow data analysts access to high-demand public datasets, and make it easy to uncover insights in the cloud.  
+
+- [Dataset Search](https://datasetsearch.research.google.com/) can help you find available datasets online with keyword searches.  
+
+- [Kaggle](https://www.kaggle.com/datasets) has an Open Data search function that can help you find datasets to practice with.  
+
+- [BigQuery](https://cloud.google.com/bigquery/public-data) hosts 150+ public datasets you can access and use.  
+
+#### Public health datasets
+
+- [Global Health Observatory data](https://www.who.int/data/collections): You can search for datasets from this page or explore featured data collections from the World Health Organization.  
+
+#### Public climate datasets
+
+- [National Climatic Data Center](https://www.ncei.noaa.gov/products): The NCDC Quick Links page has a selection of datasets you can explore.  
+
+- [NOAA Public Dataset Gallery](https://www.climate.gov/maps-data/all?listingMain=datasetgallery): The NOAA Public Dataset Gallery contains a searchable collection of public datasets.  
+
+#### Public social-political datasets
+
+- [UNICEF State of the World’s Children](https://data.unicef.org/resources/dataset/sowc-2019-statistical-tables/): This dataset from UNICEF includes a collection of tables that can be downloaded.  
+
+- [CPS Labor Force Statistics](https://www.bls.gov/cps/tables.htm): This page contains links to several available datasets that you can explore.  
+
+
+
+
+
+
 
