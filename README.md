@@ -112,6 +112,16 @@ PMAP 8921 • Summer 2022, Andrew Young School of Policy Studies, Georgia State 
 - [CPS Labor Force Statistics](https://www.bls.gov/cps/tables.htm): This page contains links to several available datasets that you can explore.  
 
 
+## Introductory videos
+
+- [Descriptive statistics and data visualisation. An introduction to statistics and working with data](https://www.youtube.com/watch?v=txNvZ3Zndak) by @gregmartin, April 01 2021  
+
+- [R programming for beginners – statistic with R (t-test and linear regression) and dplyr and ggplot](https://www.youtube.com/watch?v=ANMuuq502rE) by 
+@gregmartin  
+
+- [Statistics made easy ! ! ! Learn about the t-test, the chi square test, the p value and more](https://www.youtube.com/watch?v=I10q6fjPxJ0) by @gregmartin  
+
+
 
 
 
