@@ -65,6 +65,8 @@ You can find the workshop video [here](https://www.youtube.com/watch?v=yvi5uXQMv
 - [Building a Blog with Quarto](https://ivelasq.quarto.pub/building-a-blog-with-quarto/) by Isabella Velásquez, August 30 2022  
 You can find the workshop video [here](https://www.youtube.com/watch?v=CVcvXfRyfE0).  
 
+- [Anything is Plotsible - Exploring Data Visualizations in R](https://www.youtube.com/watch?v=C_smyZPVgR8) by Tanya Shapiro, February 2023  
+
 
 
 ## Data Visualization
@@ -73,6 +75,7 @@ You can find the workshop video [here](https://www.youtube.com/watch?v=CVcvXfRyf
 PMAP 8921 • Summer 2022, Andrew Young School of Policy Studies, Georgia State University  
 
 - [A ggplot2 Tutorial for Beautiful Plotting in R](https://cedricscherer.netlify.app/2019/08/05/a-ggplot2-tutorial-for-beautiful-plotting-in-r/)    
+You can find Github repository of the workshop [here](https://github.com/tashapiro/anything-is-plotsible/blob/main/README.md)  
 
 
 
