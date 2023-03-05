@@ -77,6 +77,13 @@ PMAP 8921 • Summer 2022, Andrew Young School of Policy Studies, Georgia State 
 - [A ggplot2 Tutorial for Beautiful Plotting in R](https://cedricscherer.netlify.app/2019/08/05/a-ggplot2-tutorial-for-beautiful-plotting-in-r/)    
 
 
+## 3D Visuals with Rayshader  
+
+[Rayshader Tutorial — Florida Population Density](https://www.youtube.com/watch?v=zgFXVhmKNbU), by @MrPecners  
+
+
+
+
 ## Quarto
 
 - [R Markdown to Quarto](https://mine-cetinkaya-rundel.github.io/quarto-tip-a-day/posts/08-rmd-switch/)  
