@@ -81,13 +81,13 @@ PMAP 8921 • Summer 2022, Andrew Young School of Policy Studies, Georgia State 
 
 ## GIS  
 
-[Rayshader Tutorial — Florida Population Density](https://www.youtube.com/watch?v=zgFXVhmKNbU), by @MrPecners  
+- [Rayshader Tutorial — Florida Population Density](https://www.youtube.com/watch?v=zgFXVhmKNbU), by @MrPecners  
 
-[Geocomputation with R, a book on geographic data analysis, visualization and modeling](https://r.geocompx.org/)  
+- [Geocomputation with R, a book on geographic data analysis, visualization and modeling](https://r.geocompx.org/)  
 
-[Spatial data analysis projects](https://github.com/darwinanddavis/worldmaps), repo by Matt Malishev  
+- [Spatial data analysis projects](https://github.com/darwinanddavis/worldmaps), repo by Matt Malishev  
 
-[Milos Makes Maps YouTube Channel](https://www.youtube.com/@milos-makes-maps/featured), by Milos Popovic  
+- [Milos Makes Maps YouTube Channel](https://www.youtube.com/@milos-makes-maps/featured), by Milos Popovic  
 
 
 
