@@ -74,13 +74,20 @@ You can find Github repository of the workshop [here](https://github.com/tashapi
 - [Data Visualization - Use R, ggplot2, and the principles of graphic design to create beautiful and truthful visualizations of data](https://datavizs22.classes.andrewheiss.com/)  
 PMAP 8921 • Summer 2022, Andrew Young School of Policy Studies, Georgia State University  
 
-- [A ggplot2 Tutorial for Beautiful Plotting in R](https://cedricscherer.netlify.app/2019/08/05/a-ggplot2-tutorial-for-beautiful-plotting-in-r/)    
+- [A ggplot2 Tutorial for Beautiful Plotting in R](https://cedricscherer.netlify.app/2019/08/05/a-ggplot2-tutorial-for-beautiful-plotting-in-r/)  
+
+- [1 dataset, 100 visualizations](https://datavizproject.com/)
 
 
-## 3D Visuals with Rayshader  
+## GIS  
 
 [Rayshader Tutorial — Florida Population Density](https://www.youtube.com/watch?v=zgFXVhmKNbU), by @MrPecners  
 
+[Geocomputation with R, a book on geographic data analysis, visualization and modeling](https://r.geocompx.org/)  
+
+[Spatial data analysis projects](https://github.com/darwinanddavis/worldmaps), repo by Matt Malishev  
+
+[Milos Makes Maps YouTube Channel](https://www.youtube.com/@milos-makes-maps/featured), by Milos Popovic  
 
 
 
