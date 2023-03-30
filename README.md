@@ -76,7 +76,13 @@ PMAP 8921 • Summer 2022, Andrew Young School of Policy Studies, Georgia State 
 
 - [A ggplot2 Tutorial for Beautiful Plotting in R](https://cedricscherer.netlify.app/2019/08/05/a-ggplot2-tutorial-for-beautiful-plotting-in-r/)  
 
-- [1 dataset, 100 visualizations](https://datavizproject.com/)
+- [1 dataset, 100 visualizations](https://datavizproject.com/)  
+
+
+## Data Visualization with Tableau  
+
+- [The Ultimate Cheat Sheet on Tableau Charts](https://towardsdatascience.com/the-ultimate-cheat-sheet-on-tableau-charts-642bca94dde5)  
+
 
 
 ## GIS  
